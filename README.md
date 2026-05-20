@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/row-the-wave/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Row The Wave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/row-the-wave/) |
+| **Get License** | [Get License For Row The Wave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/row-the-wave/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਨੀ ਤੇਰੀ ਨਜ਼ਰ ਕਾਤਿਲ ਮੈਨੂੰ no way out ਦਿਸਦਾ
+> ਮੈਂ ਰਾਤਾਂ ਨੂੰ ਜਾਗਦਾ ਤੇਰਾ face my mind ਵਿੱਚ ਵੱਸਦਾ
+> ਹਨੇਰੇ ਵਿੱਚ ਲੁਕਿਆ ਮੈਂ ਤੇਰਾ shadow chase ਕਰਦਾ
+> ਮੈਂ ਹਾਰਿਆ ਦਿਲ ਆਪਣਾ girl tell me ਕੀ ਕਰਦਾ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
