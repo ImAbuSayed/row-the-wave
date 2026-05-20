@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Row The Wave
+
+This log tracks the cryptographic history and versioning for the song **Row The Wave** (row-the-wave).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T21:17:12.464815 | `v1` | `59af5d24713dfd8c4a24ff461068d30d81fbb669283f70a0cea63c4f78bcb7a7` | `49a481a169a23a24ac1e198b0762a69672d12aa85ed1664501b3d6c23b813a0c` | `2026-05-20_row-the-wave-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
